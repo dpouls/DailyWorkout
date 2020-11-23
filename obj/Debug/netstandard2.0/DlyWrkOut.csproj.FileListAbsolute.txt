@@ -1,0 +1,14 @@
+C:\Users\dalli\source\repos\DlyWrkOut\DlyWrkOut\DlyWrkOut\bin\Debug\netstandard2.0\DlyWrkOut.deps.json
+C:\Users\dalli\source\repos\DlyWrkOut\DlyWrkOut\DlyWrkOut\bin\Debug\netstandard2.0\DlyWrkOut.dll
+C:\Users\dalli\source\repos\DlyWrkOut\DlyWrkOut\DlyWrkOut\bin\Debug\netstandard2.0\ref\DlyWrkOut.dll
+C:\Users\dalli\source\repos\DlyWrkOut\DlyWrkOut\DlyWrkOut\bin\Debug\netstandard2.0\DlyWrkOut.pdb
+C:\Users\dalli\source\repos\DlyWrkOut\DlyWrkOut\DlyWrkOut\obj\Debug\netstandard2.0\DlyWrkOut.csprojAssemblyReference.cache
+C:\Users\dalli\source\repos\DlyWrkOut\DlyWrkOut\DlyWrkOut\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\dalli\source\repos\DlyWrkOut\DlyWrkOut\DlyWrkOut\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\dalli\source\repos\DlyWrkOut\DlyWrkOut\DlyWrkOut\obj\Debug\netstandard2.0\DlyWrkOut.AssemblyInfoInputs.cache
+C:\Users\dalli\source\repos\DlyWrkOut\DlyWrkOut\DlyWrkOut\obj\Debug\netstandard2.0\DlyWrkOut.AssemblyInfo.cs
+C:\Users\dalli\source\repos\DlyWrkOut\DlyWrkOut\DlyWrkOut\obj\Debug\netstandard2.0\DlyWrkOut.csproj.CoreCompileInputs.cache
+C:\Users\dalli\source\repos\DlyWrkOut\DlyWrkOut\DlyWrkOut\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\dalli\source\repos\DlyWrkOut\DlyWrkOut\DlyWrkOut\obj\Debug\netstandard2.0\DlyWrkOut.dll
+C:\Users\dalli\source\repos\DlyWrkOut\DlyWrkOut\DlyWrkOut\obj\Debug\netstandard2.0\ref\DlyWrkOut.dll
+C:\Users\dalli\source\repos\DlyWrkOut\DlyWrkOut\DlyWrkOut\obj\Debug\netstandard2.0\DlyWrkOut.pdb

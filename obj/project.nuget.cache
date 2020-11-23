@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "s/OG23qACEe4m4OpJzl/MJCFEbqFpnvbHvsVFq3PUHkVc9hL9yq+WV3MnAveSJRZbEVA9koWs1o1eLKjbpapug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dalli\\source\\repos\\DlyWrkOut\\DlyWrkOut\\DlyWrkOut\\DlyWrkOut.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dalli\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\dalli\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\dalli\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}

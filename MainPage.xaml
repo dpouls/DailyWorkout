@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DlyWrkOut.MainPage">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="100"/>
+        </Grid.RowDefinitions>
+        <BoxView BackgroundColor="Azure"
+               Grid.ColumnSpan="2"/>
+        <Label Text="Dallin's Daily Workout"
+               FontSize="30"
+               TextColor="SlateGray"
+               HorizontalOptions="Center"
+               VerticalOptions="Center"
+               Grid.ColumnSpan="2"/>
+        <Label x:Name="LblDate"
+               Text="Date: "
+               Grid.Row="1"
+               HorizontalOptions="Center"
+               VerticalOptions="Start"
+               FontSize="30"
+               Grid.ColumnSpan="2"/>
+        <Label Text="Workout Minutes"
+               FontSize="40"
+               Grid.Row="1"
+               HorizontalOptions="Center"
+               VerticalOptions="End"
+               Grid.ColumnSpan="2"/>
+        <Label x:Name="LblResults"
+               Text="0"
+               FontSize="100"
+               Grid.Row="2"
+               HorizontalOptions="Center"
+               VerticalOptions="Start"
+               Grid.ColumnSpan="2"/>
+        <Picker Grid.Row="3"
+                Title="Select Time"
+                FontSize="30"
+                VerticalOptions="Center"
+                HorizontalOptions="Center"
+                x:Name="PckMinutes">
+            <Picker.Items>
+                <x:String>1</x:String>
+                <x:String>2</x:String>
+                <x:String>5</x:String>
+                <x:String>10</x:String>
+                <x:String>20</x:String>
+                <x:String>30</x:String>
+                <x:String>40</x:String>
+                <x:String>60</x:String>
+                <x:String>120</x:String>
+            </Picker.Items>
+        </Picker>
+        <Button Text="Add Minutes"
+                x:Name="BtnAddMinutes"
+                Grid.Row="3"
+                Grid.Column="1"
+                FontSize="30"
+                Clicked="BtnAddMinutes_Clicked"/>
+    </Grid>
+
+
+</ContentPage>
